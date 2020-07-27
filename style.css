@@ -1,0 +1,159 @@
+main
+{
+    width:850px;
+    margin:auto;
+    background-color: black;
+    color:white;
+}
+body
+{
+    background-color: gray;
+}
+.head
+{
+    border: 2px solid black;
+}
+
+
+header {
+    margin: 0;
+    width:100%;
+    height:150px;
+    background:url(4.png);
+  
+}
+
+img
+{
+border:2px solid grey;
+border-radius: 50%;
+margin-top:-80px;
+}
+.photo
+{
+    text-align: center;
+}
+h1
+{
+    font-family: 'Monoton', cursive;
+    font-size:60px;
+    text-align: center;
+    background: -webkit-linear-gradient(left, rgba(68,16,122,1) 0%,rgba(255,19,97,1) 40%,rgba(255,248,0,1) 65%);
+    -webkit-text-fill-color:transparent;
+    -webkit-background-clip: text;
+
+}
+h2{
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    border:2px solid rgba(255,19,97,1);
+    text-transform: uppercase;
+
+}
+.contact
+{
+    display: flex;
+}
+.text, .number
+{
+    width:425px;
+}
+.number{
+    text-align: center;
+}
+p{
+    font-family: 'Cinzel', serif;
+
+}
+.text{
+ text-align: justify;
+}
+.hobby{
+    text-align: center;
+    padding-bottom: 40px;
+}
+.hobby i
+{
+    font-size:25px;
+    text-align:center;
+    width: 40px;
+    height: 40px;
+    line-height: 40px; 
+    border: 2px solid;
+    border-radius: 50%;
+    
+}
+.section-sub
+{
+    display:flex;
+}
+.date
+{
+    padding:25px;
+}
+.date_
+{
+    padding-top:145px;
+    
+}
+.ico{
+padding-top:41px;
+padding-left: 10px;
+color:rgba(255,19,97,1)
+}
+
+.ico2{
+    padding-top:209px;
+    padding-left: 10px;
+    }
+.details
+{
+    padding-top:29px ;
+}
+.date_1
+{
+    padding-top:175px;
+}
+.date_2
+{
+    padding-top:150px;
+}
+
+
+.ico3
+{
+    padding-top: 41px;
+    padding-left: 10px;
+    color:rgba(255,19,97,1)
+}
+.ico4
+{
+    padding-top:238px;
+    padding-left: 10px;
+}
+.ico5
+{
+    padding-top:215px;
+    padding-left: 10px;
+}
+
+.section-sub2
+{
+    display:flex;
+    padding:20px;
+    text-align: center;
+    
+    
+}
+.rec-left, .rec-right
+{
+    padding-left:100px;
+    padding-right:100px;
+}
+footer{
+    background:url(8.png);
+    width:100%;
+    height:150px;
+    
+    
+}
